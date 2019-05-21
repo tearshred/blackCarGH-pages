@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b8a8a6e.chunk.css",
+    "main.js": "/static/js/main.8fe7703a.chunk.js",
+    "main.js.map": "/static/js/main.8fe7703a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e46a40f1.chunk.js": "/static/js/2.e46a40f1.chunk.js",
+    "static/js/2.e46a40f1.chunk.js.map": "/static/js/2.e46a40f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fa6e6006db3d0146b4fe45cbce12b146.js": "/precache-manifest.fa6e6006db3d0146b4fe45cbce12b146.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8b8a8a6e.chunk.css.map": "/static/css/main.8b8a8a6e.chunk.css.map",
+    "static/media/SUV.png": "/static/media/SUV.19f3c00d.png",
+    "static/media/Sedan.png": "/static/media/Sedan.05789ed2.png",
+    "static/media/airplane-24px.svg": "/static/media/airplane-24px.042c314a.svg",
+    "static/media/banner_main.png": "/static/media/banner_main.36c082f4.png",
+    "static/media/city-24px.svg": "/static/media/city-24px.42daa1a9.svg",
+    "static/media/clock-24px.svg": "/static/media/clock-24px.ebcf00f4.svg",
+    "static/media/email-24px.svg": "/static/media/email-24px.4dc7a8cc.svg"
+  }
+}
